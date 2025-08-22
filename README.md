@@ -1,18 +1,4 @@
-## Hi there, I'm Nick Theodoulou <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 [![Website](https://img.shields.io/website?label=nicktheodoulou.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://nicktheodoulou.com/)
-
-
-### I'm a Full Stack Developer with a flair for blending art and science in web development. 
-
-🛋️ At [Dunelm](https://dunelm.com), I transform code into customer delight, bringing stories to life with data-driven web apps. 
-
-🧗Beyond the code, you'll find me jamming on my guitar, scaling rock walls, or exploring new cultures. Dive into my world of creative coding and quirky adventures!
-
-🔍 Expertise: Website Artistry, Data Storytelling, Innovative Web Apps
-
-🌱 Background: Data Analysis, Marketing, Mathematical Modeling
-
 
 ### Connect with me:
 
